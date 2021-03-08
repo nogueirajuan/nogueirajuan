@@ -1,5 +1,5 @@
 ### Oi, eu sou o Juan 👋
-Bacharel em Sistemas de Informação pela Universidade de São Paulo
+pode entrar, não repara a bagunça rs
 
 - 🔭 engenheiro de software no Itaú Unibanco
 - 🌱 entusiasta de tecnologia e atualmente me aprofundando nos conhecimentos sobre serviços em cloud
